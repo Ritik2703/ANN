@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  5 13:30:38 2019
-
-@author: krish.naik
-"""
 
 # Artificial Neural Network
 
